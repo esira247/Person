@@ -1,5 +1,5 @@
 public class Person {
-    
+
     Person() {
         System.out.println("*New profile created*");
     }
